@@ -5,7 +5,7 @@ require 'tachyons-sass/rails/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "tachyons-sass-rails"
-  spec.version       = TachyonsSass::Rails::VERSION
+  spec.version       = "0.1.0"
   spec.authors       = ["Gerard Simpson"]
   spec.email         = ["gerardsimpson@gmail.com"]
 
